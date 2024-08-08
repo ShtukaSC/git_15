@@ -3,9 +3,9 @@
 
 ![image](https://github.com/user-attachments/assets/53fdcb86-9e64-485a-988a-3372f0394c80)
 
-![image](https://github.com/user-attachments/assets/30d6668b-2077-454e-9817-155485a775e3)
+https://www.exploit-db.com/exploits/49757
 
-![image](https://github.com/user-attachments/assets/46561549-cd69-420c-b420-3082e26787d1)
+https://www.exploit-db.com/exploits/17491
 
 https://www.exploit-db.com/exploits/28333
 
