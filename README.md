@@ -7,7 +7,7 @@
 
 ![image](https://github.com/user-attachments/assets/46561549-cd69-420c-b420-3082e26787d1)
 
-![image](https://github.com/user-attachments/assets/80d6d7fb-4d0b-4e48-a78f-1f5965ffc0e7)
+https://www.exploit-db.com/exploits/28333
 
 
 Задание 2
