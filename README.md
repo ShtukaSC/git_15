@@ -53,6 +53,9 @@ tn2.interact()
 
 ![image](https://github.com/user-attachments/assets/ef6c3cee-59d2-4316-bfbd-7d680162ce1e)
 
+![image](https://github.com/user-attachments/assets/a5b9937e-097d-4f59-84c5-d1797ce6f1d0)
+
+
 SYN сканирование:
 - При SYN сканировании отправляется только пакет с флагом SYN, чтобы установить соединение с портом.
 - Если порт открыт, целевой хост отправляет пакет с флагами SYN-ACK в ответ.
